@@ -1,2 +1,2 @@
 # image2ascii-Converter-python
-This is a simple image (.jpeg) to ASCII converter written in Python
+This is my first Python programming experience. The program uses OpenCv to read .jpeg files and image to grayscale image conversions
